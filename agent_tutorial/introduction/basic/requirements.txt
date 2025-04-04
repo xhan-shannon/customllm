@@ -1,0 +1,6 @@
+llama-index>=0.10.0
+python-dotenv
+sentence-transformers
+torch
+llama-index-embeddings-huggingface
+llama-index-llms-deepseek

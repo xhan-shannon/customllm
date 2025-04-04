@@ -1,0 +1,8 @@
+mysql-connector-python
+elasticsearch==7.17.1
+requests==2.28.1
+elasticsearch-dsl==7.4.0
+openai
+langchain
+sqlalchemy
+pymysql

@@ -1,0 +1,5 @@
+langchain
+langchainhub
+OpenAI
+langchain-openai
+google-search-results

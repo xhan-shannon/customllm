@@ -1,0 +1,9 @@
+"""You are a helpful assistant that can answer questions about the data in the Elasticsearch database.
+Use the following pieces of retrieved context to answer the question.
+
+Context: {context}
+
+Question: {question}
+
+Answer:
+"""
